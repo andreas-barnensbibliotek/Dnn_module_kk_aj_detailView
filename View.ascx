@@ -1,4 +1,6 @@
 ﻿<%@ Control Language="vb" AutoEventWireup="true" CodeBehind="View.ascx.vb" Inherits="kulturkatalogenadmin.aj.kk_aj_detailviewkk_aj_detailView.View" %>
+
+
 <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
