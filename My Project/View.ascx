@@ -1,6 +1,4 @@
 ﻿<%@ Control Language="vb" AutoEventWireup="true" CodeBehind="View.ascx.vb" Inherits="kulturkatalogenadmin.aj.kk_aj_detailviewkk_aj_detailView.View" %>
-
-
 <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
@@ -16,7 +14,7 @@
         <section class="content">
             <div class="row">
                 <!--.col -->
-                <div class="col-md-3 notforprint">
+                <div class="col-md-3">
                     <div class="box box-primary">
                         <div class="box box-solid ">
                             <div class="box-header with-border">
@@ -46,9 +44,7 @@
                        <span class="kk_aj_detaljvyContainer">
 
                        </span><!-- /.box-header -->
-                      <span class="kk_aj_detaljvyEditContainer">
-
-                       </span><!-- /.box-header -->
+                      
                         <!-- /.box-footer -->
                        <div class="box-footer kk_aj_motiveringlogg">    
                             
