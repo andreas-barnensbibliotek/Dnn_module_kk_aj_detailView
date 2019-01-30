@@ -1,0 +1,7 @@
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_detailView.dll.config
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_detailView.dll
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_detailView.pdb
+D:\wwwroot\dnndev_v902.me\bin\kk_aj_detailView.xml
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_detailView\obj\Debug\kk_aj_detailView.dll
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_detailView\obj\Debug\kk_aj_detailView.xml
+D:\wwwroot\dnndev_v902.me\DesktopModules\kk_aj_detailView\obj\Debug\kk_aj_detailView.pdb
